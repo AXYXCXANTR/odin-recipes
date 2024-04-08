@@ -1,0 +1,18 @@
+body {
+    margin: 100px;
+    background-color: aquamarine;
+}
+
+ul {
+    color: red;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 10vmax;
+}
+.test {
+    display: flex;
+    background-color: brown;
+    flex-wrap: wrap;
+}
